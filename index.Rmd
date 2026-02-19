@@ -19,8 +19,8 @@ library(fontawesome)
 #### **Bio** 
 
 I am interested in understanding the molecular causes of rare genetic diseases and I am currently working on identification of Porphyrias variants in the mexican population.
-Also learning how to be a good bioinformatician 
-Member of the Mendelian genomics and precision health laboratory, in Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH)
+Also learning how to be a good bioinformatician.
+Member of the Mendelian genomics and precision health laboratory, in Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH).
 
 #### **Education**
 
