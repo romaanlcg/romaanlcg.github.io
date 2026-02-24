@@ -1,6 +1,6 @@
 ---
 title: "Roman Cervantes"
-image: "20250108_103526.jpg"
+image: "yoroman.jpg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
     url: "www.linkedin.com/in/román-cervantes-25b31a3b2"
@@ -28,3 +28,5 @@ Member of the Mendelian genomics and precision health laboratory, in Laboratorio
 
 Undergraduate student in Genomic Sciences, UNAM, Mexico.
 
+#### **Random**
+I like red bull and Roblox
